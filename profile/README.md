@@ -1,7 +1,9 @@
 > **點讚加入 FaceBook 社團**
+> 
 > <https://www.facebook.com/groups/isoface/>
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
+> 
 > <https://www.facebook.com/diylogi>
 
 愛招飛(IsoFace)智慧整合平臺，擁有各類管理模型，可自行套用，快速匯入，企業或個人如有特定業務須求，可自訂開發設計。IsoFace 是PaaS 物聯網平臺，協助企業加快AIoT的部署。它愛招飛(IsoFace)除了豐富的裝置邊緣軟體服務，更強化了云架構的運維能量，以微服務、產業聚焦的工業APP提供各行業快速整合應用，其結構由下至上涵蓋了基礎設施管理；微服務及數據平臺；以及物聯網產業工業App等多層架構。
