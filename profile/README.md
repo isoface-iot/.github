@@ -1,4 +1,4 @@
-> **點讚加入 FaceBook 社團**
+> **加入 FaceBook 社團**
 > 
 > <https://www.facebook.com/groups/isoface/>
 > 
